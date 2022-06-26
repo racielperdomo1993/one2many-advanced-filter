@@ -6,15 +6,15 @@ Allows to filter on fields of type one2many
 
 Install the module and look for an one2manyfield in a form view.
 
-![image01](static/description/canvas.png)  
+![image01](one2many_advanced_filter/static/description/canvas.png)  
 
 Click on the button over the table to add conditions. It uses the same Control Panel of the paginator component.
 
-![image02](static/description/canvas2.png)
+![image02](one2many_advanced_filter/static/description/canvas2.png)
 
 ### Result after Apply filters:
 
-![image03](static/description/canvas3.png)
+![image03](one2many_advanced_filter/static/description/canvas3.png)
 
 Show the filter list of records.
 
